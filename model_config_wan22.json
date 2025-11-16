@@ -32,7 +32,11 @@
     "https://huggingface.co/datasets/nodelee733/download/resolve/main/SaggyTits_wan22_e20_high.safetensors",
     "https://huggingface.co/datasets/nodelee733/download/resolve/main/SaggyTits_wan22_e25_low.safetensors",
     "https://huggingface.co/datasets/nodelee733/download/resolve/main/NSFW-22-H-e8.safetensors",
-    "https://huggingface.co/datasets/nodelee733/download/resolve/main/NSFW-22-L-e8.safetensors"
+    "https://huggingface.co/datasets/nodelee733/download/resolve/main/NSFW-22-L-e8.safetensors",
+    "https://huggingface.co/datasets/nodelee733/download/resolve/main/ps_high_noise.safetensors",
+    "https://huggingface.co/datasets/nodelee733/download/resolve/main/ps_low_noise.safetensors",
+    "https://huggingface.co/datasets/nodelee733/download/resolve/main/WAN-2.2-I2V-POV-Cowgirl-HIGH-v1.0-fixed.safetensors",
+    "https://huggingface.co/datasets/nodelee733/download/resolve/main/WAN-2.2-I2V-POV-Cowgirl-LOW-v1.0-fixed.safetensors"
   ],
   "upscale_models": [
     "https://huggingface.co/lokCX/4x-Ultrasharp/resolve/main/4x-UltraSharp.pth"
