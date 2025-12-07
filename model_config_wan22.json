@@ -27,14 +27,16 @@
     "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/LoRAs/Wan22_relight/WanAnimate_relight_lora_fp16.safetensors",
     "https://huggingface.co/datasets/nodelee733/download/resolve/main/SaggyTits_wan22_e20_high.safetensors",
     "https://huggingface.co/datasets/nodelee733/download/resolve/main/SaggyTits_wan22_e25_low.safetensors",
-    "https://huggingface.co/datasets/nodelee733/download/resolve/main/PussyLoRA_HighNoise_Wan2.2_HearmemanAI.safetensors",
-    "https://huggingface.co/datasets/nodelee733/download/resolve/main/PussyLoRA_LowNoise_Wan2.2_HearmemanAI.safetensors",
-    "https://huggingface.co/datasets/nodelee733/download/resolve/main/WAN2.2_I2V-T2V_Flatchested_High.safetensors",
-    "https://huggingface.co/datasets/nodelee733/download/resolve/main/WAN2.2_I2V-T2V_Flatchested_Low.safetensors",
     "https://huggingface.co/datasets/nodelee733/download/resolve/main/wan2.2_i2v_highnoise_pov_missionary_v1.0.safetensors",
     "https://huggingface.co/datasets/nodelee733/download/resolve/main/wan2.2_i2v_lownoise_pov_missionary_v1.0.safetensors",
     "https://huggingface.co/datasets/nodelee733/download/resolve/main/WAN-2.2-I2V-POV-Cowgirl-HIGH-v1.0-fixed.safetensors",
-    "https://huggingface.co/datasets/nodelee733/download/resolve/main/WAN-2.2-I2V-POV-Cowgirl-LOW-v1.0-fixed.safetensors"
+    "https://huggingface.co/datasets/nodelee733/download/resolve/main/WAN-2.2-I2V-POV-Cowgirl-LOW-v1.0-fixed.safetensors",
+    "https://huggingface.co/datasets/nodelee733/download/resolve/main/PenInsert_high_noise.safetensors",
+    "https://huggingface.co/datasets/nodelee733/download/resolve/main/PenInsert_low_noise.safetensors",
+    "https://huggingface.co/datasets/nodelee733/download/resolve/main/WAN2.2-HighNoise_Pussyv1-I2V_T2V.safetensors",
+    "https://huggingface.co/datasets/nodelee733/download/resolve/main/WAN2.2-LowNoise_Pussyv1-I2V_T2V.safetensors",
+    "https://huggingface.co/datasets/nodelee733/download/resolve/main/wan22EnhancedNSFWCameraPrompt_nsfwFASTMOVEV2FP8H.safetensors",
+    "https://huggingface.co/datasets/nodelee733/download/resolve/main/wan22EnhancedNSFWCameraPrompt_nsfwFASTMOVEV2FP8L.safetensors"
   ],
   "upscale_models": [
     "https://huggingface.co/lokCX/4x-Ultrasharp/resolve/main/4x-UltraSharp.pth"
